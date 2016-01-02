@@ -1,10 +1,10 @@
 Ingredients:
-  - 1 bowl cereal
-  - 1/2 bowl milk
-  - 1 bowl
-  - 1 spoon
+ - 1 bowl cereal
+ - 1/2 bowl milk
+ - 1 bowl
+ - 1 spoon
 
 Directions:
-  1. Put spoon into bowl
-  2. Put cereal into bowl followed by milk
-  3. Enjoy
+ 1. Put spoon into bowl
+ 2. Put cereal into bowl followed by milk
+ 3. Enjoy
